@@ -1,5 +1,4 @@
 include "common"
-include "common-test"
 include 'common-swagger'
 include 'orders-history-common'
 include 'customers-common'
@@ -8,5 +7,4 @@ include 'customers-service'
 include 'orders-history-view-service'
 include 'orders-service'
 
-include "e2e-test"
 
